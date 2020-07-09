@@ -5,3 +5,5 @@
  To adapt to Winform and c#, I'm using the features I've learned personally, and I'm just making them for my own use, so I'm just making them for learning!
 
 Download Shimeji: http://kilkakon.com/shimeji/
+
+Codes here: https://github.com/HumanAdjust/Desktop_Assistant_Dev
