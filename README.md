@@ -8,11 +8,17 @@
 
 **Version**
 <hr>
-Ver 0.2 - Add Some Commands(Like Shutdown, Reboot, ...etc)   
-Ver 0.35 - Add some programs   
-ver 0.4 - Can change Charactors(Will be added so that it can be customized later)   
-ver 0.5 - Can Check My IP Address   
-ver 0.53 - Always On Top ON/OFF function Add   
+Ver 0.2 - Add Some Commands(Like Shutdown, Reboot, ...etc)
+
+Ver 0.35 - Add some programs
+
+ver 0.4 - Can change Charactors(Will be added so that it can be customized later)
+
+ver 0.5 - Can Check My IP Address
+
+ver 0.53 - Always On Top ON/OFF function Add
+
+
 
 **Etc**
 <hr>
